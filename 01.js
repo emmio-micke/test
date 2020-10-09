@@ -8,3 +8,6 @@ FizzBuzz är ett elementärt programmeringsproblem där man skriver ut tal i en 
 
 */
 
+for (let i = 1; i <= 10; i++){
+    console.log(i)
+}
